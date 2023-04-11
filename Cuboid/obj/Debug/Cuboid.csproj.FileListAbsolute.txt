@@ -1,0 +1,7 @@
+C:\Users\Skymmel\RiderProjects\Cuboid\Cuboid\obj\Debug\Cuboid.csproj.AssemblyReference.cache
+C:\Users\Skymmel\RiderProjects\Cuboid\Cuboid\obj\Debug\Cuboid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Skymmel\RiderProjects\Cuboid\Cuboid\obj\Debug\Cuboid.csproj.CoreCompileInputs.cache
+C:\Users\Skymmel\RiderProjects\Cuboid\Cuboid\bin\Debug\Cuboid.exe
+C:\Users\Skymmel\RiderProjects\Cuboid\Cuboid\bin\Debug\Cuboid.pdb
+C:\Users\Skymmel\RiderProjects\Cuboid\Cuboid\obj\Debug\Cuboid.exe
+C:\Users\Skymmel\RiderProjects\Cuboid\Cuboid\obj\Debug\Cuboid.pdb
